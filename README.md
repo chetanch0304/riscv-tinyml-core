@@ -247,7 +247,7 @@ gtkwave riscv_tinyml.vcd
 
 **Chetan Chaudhary**  
 B.Tech Electronics and Communication Engineering  
-NIT Silchar · Expected 2027
+NIT Silchar-2027
 
 ---
 
